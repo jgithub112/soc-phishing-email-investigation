@@ -1,0 +1,3 @@
+1.	Do not open or interact with the attachments until they have been fully analyzed and confirmed to be safe.
+2.	Educate the user not to respond to suspicious emails, click unknown links, or open unexpected attachments.
+3.	Decode and analyze the Base64-encoded attachments in a controlled environment to determine their actual contents and identify any potentially malicious files or embedded links.
