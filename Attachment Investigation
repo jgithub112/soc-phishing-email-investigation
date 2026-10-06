@@ -1,0 +1,18 @@
+During further investigation, two attachments were identified within the email.
+
+Attachment 1 — text/plain
+The first attachment was identified as text/plain and contained Base64-encoded data.
+The Base64 content was decoded using CyberChef to uncover and examine the underlying content.
+
+Attachment 2 — application/pdf
+The second attachment was identified as application/pdf. Further analysis of the attachment revealed that its underlying file format was not a conventional PDF.
+The Base64-encoded content was processed using CyberChef and converted to hexadecimal for file signature analysis.
+The hexadecimal file signature was compared against the Gary Kessler File Signature Table, which indicated that the underlying file was a ZIP archive.
+
+ZIP Archive Analysis
+The identified ZIP archive was extracted for further investigation.
+
+The archive contained the following files:
+•	Excel file
+•	JPEG image
+•	PDF file
