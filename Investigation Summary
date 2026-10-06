@@ -1,0 +1,9 @@
+Item	        Details
+Date	        26 January 2021
+Time	        22:41:18 -0800 (PST)
+Alert	        Possible Phishing
+Subject	      A Hope to CoCanDa
+SFP	          Fail
+Attachments	  2
+Initial Indicators	Sender/Reply-To mismatch
+Tools	        CyberChef, Gary Kessler File Signature Table, Email header analysis, Hexadecimal analysis
